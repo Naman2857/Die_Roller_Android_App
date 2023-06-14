@@ -1,16 +1,3 @@
-# dice_latest_new
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The "Die Roller" Android app is a handy tool that emulates the experience of rolling a physical die. With a simple interface featuring a die and a "Roll Die" button, this app generates a random number each time the button is clicked, mimicking the unpredictability of a traditional die roll.
+I am sharing the screenshot of App here.
+![Screenshot 2023-06-14 075042](https://github.com/Naman2857/Die_Roller_Android_App/assets/91375130/9225c6c2-7f20-49b6-bb4e-54601efee62c)
